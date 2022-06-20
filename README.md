@@ -24,11 +24,11 @@ Ao concluir a instalação de todos os packages, você terá duas opções para 
 ```
 $ npm run dev
 ```
-2. Para rodar o projeto em modo de produção, localmente antes de fazer o deploy, execute o seguinte comando: **:fa-exclamation-triangle:**
+2. Para rodar o projeto em modo de produção, localmente antes de fazer o deploy, execute o seguinte comando: **:warning:**
 ```
 $ npm run preview
 ```
-**:fa-exclamation-triangle: - Importante: ** O comando de **preview** exige que você faça o **build** do projeto antes de executa ló. Então para fazer o **build**, execute o seguinte comando:
+**:warning: - Importante: ** O comando de **preview** exige que você faça o **build** do projeto antes de executa ló. Então para fazer o **build**, execute o seguinte comando:
 ```
 $ npm run build
 ```
