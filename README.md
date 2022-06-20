@@ -28,7 +28,7 @@ $ npm run dev
 ```
 $ npm run preview
 ```
-**:warning: - Importante: ** O comando de **preview** exige que você faça o **build** do projeto antes de executa ló. Então para fazer o **build**, execute o seguinte comando:
+:warning:** - Importante: ** O comando de **preview** exige que você faça o **build** do projeto antes de executa ló. Então para fazer o **build**, execute o seguinte comando:
 ```
 $ npm run build
 ```
