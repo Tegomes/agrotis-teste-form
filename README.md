@@ -13,7 +13,7 @@ Construido com [Vite](https://vitejs.dev/) e utilizando o framework ReactJs como
 A execução do projeto pode ser feito tanto com o `yarn`, quanto com o `npm`.
 Mas aqui vou explicar como fazer, utilizando o **npm** de exemplo.
 
-Após clonar o projeto para o seu computador, abra o terminal, navegue até o diretório do projeto e execute o sequinte comando:
+Após clonar o projeto para o seu computador, abra o terminal, navegue até o diretório do projeto e execute o seguinte comando:
 ```
 $ npm install
 ```
